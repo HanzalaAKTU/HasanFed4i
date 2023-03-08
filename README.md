@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HasanFed4i
+- 👋 Hi, I’m @HanzalaAKTU
 - 👀 I’m interested in Computer Technology
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on AI
